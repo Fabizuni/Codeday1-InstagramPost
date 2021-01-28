@@ -1,0 +1,87 @@
+body{
+    background: grey;
+}
+
+.postgeneral{
+width: 700px;
+height: 800px;
+margin: 0 auto;
+background:whitesmoke
+}
+
+.head{
+    display: flex;
+    width: 80px;
+    justify-content: space-between;
+}
+
+.name{
+    margin: auto;
+}
+
+.nameprofile{
+    margin-block-end: 5px;
+    margin-block-start: 5px;
+}
+
+.profileimagen{
+    width: 80px;
+    margin: auto;
+    padding-top: 20px;
+}
+
+.settings{
+    margin: auto;
+    padding-top: 20px;
+}
+
+.icon{
+    width: 520px;
+    height: 50px;
+    text-align: right;
+    margin: auto;
+}
+
+.postimagen{
+  display: flex;
+  width: auto;
+  height: 500px;
+  justify-content: center;
+  margin-top: 20px;
+  margin-bottom: 20px; 
+}
+
+.imagenofpost{
+width: 100%;
+height: 100%;
+}
+
+
+.lefticon{
+    width: 30%;   
+    justify-content: space-between;
+}
+
+
+.righticon{
+    width: 50%;
+    justify-content: right;
+    text-align: right;
+    
+}
+
+.icons{
+    display: flex;
+    justify-content: space-between;
+    padding-right: 20px;
+    padding-left: 20px;
+}
+
+.likepost{
+    margin-inline-start: 20px;
+}
+
+.text{
+    margin-inline-start: 20px;
+    margin-inline-end: 10px;
+}
